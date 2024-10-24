@@ -16,3 +16,4 @@ function triangle($n) {
     return $triangle;
 }
 ?>
+//for mr jb
